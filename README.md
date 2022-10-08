@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daisy</h1>
-I'm a aspiring web dev with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps.
+<p>I'm a aspiring web dev with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps.</p>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daisysimy1&label=Profile%20views&color=0e75b6&style=flat" alt="daisysimy1" /> </p>
@@ -14,19 +14,11 @@ I'm a aspiring web dev with a love for frontend web development. I'm currently w
 
 🌟  The first language I used to program "Hello World" was Javascript
 
-🧁  I've always liked seeing how cakes are baked.
-
-📚  I love Marvel movies and have recently started diving into the comics. My current favorite character is **Doctor Strange**
-
 ✈️  I love to travel to new places, but *somehow* always find myself taking nature walks.
 
 🎮  If I'm not coding, you'll likely find me playing a video game. 
 
 ---
-
-
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
