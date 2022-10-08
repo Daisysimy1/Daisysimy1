@@ -2,7 +2,6 @@
 <p align="center">I'm a aspiring web dev with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps.</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=daisysimy1&label=Profile%20views&color=0e75b6&style=flat" alt="daisysimy1" /> </p>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
 - 🌱 I’m currently learning **React, Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daisysimy1](https://github.com/Daisysimy1)
