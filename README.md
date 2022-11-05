@@ -1,5 +1,5 @@
 ### Hi there  👋, I'm Daisy
-<p align="center">I'm a aspiring web dev with a love for frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps.</p>
+<p align="center">I'm a aspiring web dev with interest in frontend web development. I'm currently working with React to create easy-to-use and beautiful web apps.</p>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 - 🌱 I’m currently learning **Javascript, React, Ruby**
 
