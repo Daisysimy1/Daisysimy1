@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daisy</h1>
+### Hi there  👋, I'm Daisy
 <p align="center">I'm a aspiring web dev with a love for full stack web development. I'm currently working with React to create easy-to-use and beautiful web apps.</p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=daisysimy1&label=Profile%20views&color=0e75b6&style=flat" alt="daisysimy1" /> </p>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 - 🌱 I’m currently learning **React, Ruby**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daisysimy1](https://github.com/Daisysimy1)
@@ -11,7 +9,7 @@
  **⚡ Fun fact** : 
 🌟  The first language I used to program "Hello World" was Javascript
 
- ✈️  I love to travel to new places, but *somehow* always find myself taking nature walks.
+ ✈️  I love to travel to new places, but *somehow* find myself taking nature walks.
                                                       
 ---
 
